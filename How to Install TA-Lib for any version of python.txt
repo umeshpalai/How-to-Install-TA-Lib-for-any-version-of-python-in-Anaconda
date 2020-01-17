@@ -1,0 +1,7 @@
+1. Check your Python version
+2. Check your windows architecture (32-bit or 64-bit) 
+3. https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
+4. Download the correct file
+5. Move the file to same folder which is shown on the Anaconda prompt.
+6. Install in Anaconda promt: pip install 'filename'
+7. Check whether it is stalled correctly : type 'python' then 'import talib'
